@@ -20,6 +20,10 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.w-5{
+  background-image: url("/src/public/logo-image.webp");
+}
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;
