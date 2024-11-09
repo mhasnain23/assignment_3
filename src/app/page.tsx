@@ -24,14 +24,14 @@ export default function Home() {
           </span>
         </button>
       </div>
-      <div className="max-w-7xl mt-16 flex flex-col items-center justify-center mx-auto -mt-[25px]">
+     /* <div className="max-w-7xl mt-16 flex flex-col items-center justify-center mx-auto -mt-[25px]">
         <h1 className="font-[poppins] text-[2.34rem] font-extrabold text-gray-900 dark:text-white md:text-5xl lg:text-6xl">
           <span className="text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">
             Props Data
           </span>
         </h1>
         <Card name={"Hasnain"} Id={166548} day={"Monday 2pm - 5pm"} />
-      </div>
+      </div>*/
     </main>
   );
 }
