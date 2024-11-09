@@ -1,6 +1,6 @@
 "use client";
 
-import Card from "@/components/card";
+//import Card from "@/components/card";
 import Footer from "@/components/footer";
 import Image from "next/image";
 import Link from "next/link";
