@@ -17,10 +17,10 @@
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: poppins, sans-serif;
 }
 
-.w-5{
+.w-5 {
   background-image: url("/src/public/logo-image.webp");
 }
 
