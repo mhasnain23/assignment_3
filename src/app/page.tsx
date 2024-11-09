@@ -25,7 +25,7 @@ export default function Home() {
         </button>
       </div>
       <div className="max-w-7xl mt-16 flex flex-col items-center justify-center mx-auto">
-        <h1 className="mb-4 font-[poppins] text-[2.34rem] font-extrabold text-gray-900 dark:text-white md:text-5xl lg:text-6xl">
+        <h1 className="font-[poppins] text-[2.34rem] font-extrabold text-gray-900 dark:text-white md:text-5xl lg:text-6xl">
           <span className="text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">
             Props Data
           </span>
